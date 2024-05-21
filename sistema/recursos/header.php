@@ -9,7 +9,7 @@
   <meta name="CIFCA" content="">
 
   <!-- Título -->
-  <title>Dental</title>
+  <title>Consultorio</title>
 
   <!-- Referencias -->
 
@@ -39,7 +39,7 @@
 
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container">
-        <a class="navbar-brand" href="#"><img src="../recursos/img2/logo.jpg" alt="" width="130px"></a>
+        <a class="navbar-brand" href="#"><img src="../recursos/img3/logo.png" alt="" width="130px"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -53,9 +53,9 @@
                 Catalogos
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" id="btn_proveedor">Proveedores</a></li>
-                <li><a class="dropdown-item" id="btn_articulos">Artículos</a></li>
-                <li><a class="dropdown-item" id="btn_material">Materiales</a></li>
+                <li><a class="dropdown-item" id="btn_proveedor">Historial médico</a></li>
+                <li><a class="dropdown-item" id="btn_articulos">Horarios</a></li>
+                <li><a class="dropdown-item" id="btn_material">Especialidad</a></li>
               </ul>
             </li>
             <li class="nav-item">
